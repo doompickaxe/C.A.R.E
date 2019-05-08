@@ -15,8 +15,11 @@ Since it was a project in Finland, you will find some Finnish translation in the
 C.A.R.E stands for Communicate, Adjust, Respect and Empower.
 
 Communicate to each other, but especially to your users.
+
 Adjust your service, so users feel good using your service.
+
 Respect that people are different and that there is no perfect service.
+
 Empower your employees to solve problems and improve the service on their own.
 
 ## Why we do what we do
