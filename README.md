@@ -60,3 +60,11 @@ Test your prototype, see what your users say. Adjust the details and test them a
 Make your users happy.
 
 
+## Developed by:
+Annika Forschle  
+Alexander Kubsch  
+Thanh Truc Nguyen  
+Rojal Rajkarnikar  
+Samip Dhungel Upadhya  
+Kevin Watzal  
+Sophia Zehetmair  
